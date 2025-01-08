@@ -7,7 +7,10 @@ function App() {
  
 
   return (
-    <h1>Welcome</h1>
+    <div>
+          <h1>Welcome</h1>
+          <p> BCS Training Academy!!! </p>
+          </div>
      )
 }
 
