@@ -8,10 +8,9 @@ function App() {
 
   return (
     <div>
-    <h1>Welcome</h1>
-    
-    <p> BCS Training Academy!!! </p>
-    </div>
+          <h1>Welcome</h1>
+          <p> BCS Training Academy!!! </p>
+          </div>
      )
 }
 
