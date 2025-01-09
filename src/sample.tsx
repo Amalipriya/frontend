@@ -1,6 +1,6 @@
-function Sample(){
+function Basic(){
     return(
         <h1>hello</h1>
     )
 }
-export default Sample
+export default Basic
