@@ -12,6 +12,6 @@ function App() {
           <p> BCS Training Academy!!! </p>
           </div>
      )
-}
+
 
 export default App
