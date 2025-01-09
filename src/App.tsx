@@ -74,6 +74,8 @@ const App: React.FC = () => {
       <div>
         <h1>Welcome to the App</h1>
         <h2> Hiiiii!!! AMALI PRIYA</h2>
+        <h1>jko;fjkel;rjgl;</h1>
+        <h2>ljdgfldjf</h2>
         <Routes>
           <Route path="/" element={<h2>Home Page</h2>} />
           <Route path="/greeting" element={<GreetingButton />} />
